@@ -4,7 +4,7 @@ A modular, real-time traffic light control system developed as the final project
 
 ## Hardware Platform
 * **Microcontroller:** STMicroelectronics STM32L476RG (32-bit ARM Cortex-M4 CPU @ 80 MHz)
-* **Shield:** Traffic Light Shield (equipped with directional car traffic lights, pedestrian signals, crosswalk request buttons, and a potentiometer)
+* **Shield/Peripherals:** Traffic Light Shield (equipped with directional car traffic lights, pedestrian signals, crosswalk request buttons, and a potentiometer)
 * **Display:** SSD1306 OLED Screen (connected via I2C)
 
 ## Features & Implementation Details
